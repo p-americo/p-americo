@@ -1,7 +1,6 @@
 
 
 
-<p align="center">Oi!, me chamo Pedro Américo, Estudante de Engenharia de Software no Instituto Federal de Goiás(IFG).</p>&nbsp;
 
  
  &nbsp;
