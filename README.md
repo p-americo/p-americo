@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://pbs.twimg.com/media/E3NhcU2XwAUOGXF.jpg" />
-&nbsp;&nbsp;&nbsp;
+
 
 
 <p align="center">Oi!, me chamo Pedro Américo, Estudante de Engenharia de Software no Instituto Federal de Goiás(IFG).</p>&nbsp;
