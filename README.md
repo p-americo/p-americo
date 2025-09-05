@@ -2,10 +2,10 @@
 
 ### Olá, sou Pedro Américo!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Pedro Américo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>
   Trabalhando na <strong>Robbu - Soluções para Comunicação de Negócios</strong><br/>
+  
   Desenvolvedor Back-end com foco principal no ecossistema .NET. Tenho também sólida experiência em desenvolvimento com Java usando o Spring Framework e JavaScript com Node.js.
   <br/><br/>
   Além do Back-end, possuo conhecimentos em tecnologias Front-end como Angular, JavaScript, HTML e CSS.
