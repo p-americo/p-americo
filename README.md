@@ -4,7 +4,7 @@
 
 
 <p>
-  Trabalhando na <strong>LG lugar de gente</strong><br/>
+  working in <strong>LG lugar de gente</strong><br/>
   
 Developer with a primary focus on .NET C#.
   <br/><br/>
